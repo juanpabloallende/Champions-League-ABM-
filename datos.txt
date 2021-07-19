@@ -1,9 +1,0 @@
-Alumno:Juan Pablo Allende
-dwm4a
-Profesor: Santiago Gallino
-Materia:Programacion III
-Trabajo Practico 1
-datos para ingresar al panel:
-email: juan.pablo.allende@hotmail.com
-password:1908sl
-
